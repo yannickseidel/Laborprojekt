@@ -1,0 +1,6 @@
+headline {font-weight: bolder;
+          font-size: large; }
+leerzeile::before  {content: '\A \A';
+                    white-space: pre}
+es {font-weight: bold;}
+wb, cm {font-style: italic; }

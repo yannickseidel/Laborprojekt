@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>/index.html</loc>
+        <lastmod>2023-02-10</lastmod>
+    </url>
+    <url>
+        <loc>/news/news.html</loc>
+        <lastmod>2023-02-10</lastmod>
+    </url>
+    <url>
+        <loc>/jobs/jobs.html</loc>
+        <lastmod>2023-02-10</lastmod>
+    </url>
+    <url>
+        <loc>/whoWeAre/whoWeAre.html</loc>
+        <lastmod>2023-02-10</lastmod>
+    </url>
+</urlset>

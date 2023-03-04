@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="snowden.css"?>
+<!DOCTYPE snowden SYSTEM "snowden.dtd" [
+        <!ENTITY    es  "Edward Snowden">
+        <!ENTITY    wb  "US-Amerikanische Whistleblower">
+        <!ENTITY    cm  "CIA-Mitarbeiter">
+        ]>
+
+<snowden>
+    <headline>
+        <headline_text>&es;</headline_text>
+    </headline>
+    <leerzeile/>
+    <main_block>
+        <main_text>&es; ist ein US-amerikanischer Whistleblower und &#xA;
+            ehemaliger CIA-Mitarbeiter. Seine Enthüllungen gaben Einblicke in das &#xA;
+            Ausmaß der weltweiten Überwachungs- und Spionagepraktiken von &#xA;
+            Geheimsdiensten - überwiegend jenen der Vereinigten Staaten und &#xA;
+            Großbritanniens. Diese lösten im Sommer 2013 die NSA-Affäre aus. &#xA; &#xA;</main_text>
+        <main_bold>&es;</main_bold>
+        <main_italic>&wb;, &cm;</main_italic>
+    </main_block>
+    <leerzeile/>
+    <end>
+        Er wurde dafür mehrfach von nichtstaatlichen Organisationen
+        ausgezeichnet und für den Friedensnobelpreis nominiert. &#xA;
+    </end>
+    <font>
+        Times New Roman
+    </font>
+</snowden>

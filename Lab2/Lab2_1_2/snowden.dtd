@@ -1,0 +1,11 @@
+<!ELEMENT   snowden        (headline, leerzeile, main_block, leerzeile, end, font)>
+    <!ELEMENT   headline    (headline_text)>
+        <!ELEMENT headline_text (#PCDATA)>
+    <!ELEMENT   main_block        (main_text, main_bold, main_italic)>
+        <!ELEMENT main_text     (#PCDATA)>
+        <!ELEMENT main_bold     (#PCDATA)>
+        <!ELEMENT main_italic   (#PCDATA)>
+    <!ELEMENT   end            (#PCDATA)>
+    <!ELEMENT   leerzeile      EMPTY>
+    <!ELEMENT   font           (#PCDATA)>
+

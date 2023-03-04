@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE lectureplan SYSTEM "lectures.dtd">
+
+<lectureplan>
+    <lecture>
+        <topic>Web Engineering</topic>
+        <lector>
+            <title>Dr.</title>
+            <lastName>Juergen</lastName>
+            <firstName>Schneider</firstName>
+        </lector>
+        <time>
+            <startingTime>8:00</startingTime>
+            <endingTime>12:15</endingTime>
+            <date>26.01.2023</date>
+        </time>
+        <room>
+            <building>H</building>
+            <number>213</number>
+        </room>
+    </lecture>
+
+    <lecture>
+        <topic>BWL</topic>
+        <lector>
+            <title>Herr</title>
+            <lastName>Andreas</lastName>
+            <firstName>Haag</firstName>
+        </lector>
+        <time>
+            <startingTime>13:15</startingTime>
+            <endingTime>17:15</endingTime>
+            <date>26.01.2023</date>
+        </time>
+        <room>
+            <building>H</building>
+            <number>222</number>
+        </room>
+    </lecture>
+</lectureplan>
+

@@ -1,0 +1,19 @@
+<!ELEMENT lectureplan   (lecture*)>
+<!ELEMENT lecture       (topic+, lector+, time+, room+)>
+
+
+<!ELEMENT topic         (#PCDATA)>
+
+<!ELEMENT lector        (title, lastName, firstName)>
+<!ELEMENT title         (#PCDATA)>
+<!ELEMENT firstName     (#PCDATA)>
+<!ELEMENT lastName      (#PCDATA)>
+
+<!ELEMENT time          (startingTime+, endingTime+, date+)>
+<!ELEMENT startingTime  (#PCDATA)>
+<!ELEMENT endingTime    (#PCDATA)>
+<!ELEMENT date          (#PCDATA)>
+
+<!ELEMENT room          (building+, number+)>
+<!ELEMENT building      (#PCDATA)>
+<!ELEMENT number        (#PCDATA)>
